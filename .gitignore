@@ -295,4 +295,4 @@ typings/
 __pycache__/
 
 #data
-.data
+*.data
