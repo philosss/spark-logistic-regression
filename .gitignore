@@ -58,9 +58,6 @@ local.properties
 # Mongo Explorer plugin:
 .idea/**/mongoSettings.xml
 
-# IntelliJ
-/out/
-
 # mpeltonen/sbt-idea plugin
 .idea_modules/
 
@@ -164,9 +161,6 @@ cmake-build-debug/
 *.iws
 
 ## Plugin-specific files:
-
-# IntelliJ
-/out/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
@@ -293,6 +287,3 @@ typings/
 # End of https://www.gitignore.io/api/node,bower,grunt
 
 __pycache__/
-
-#data
-*.data
